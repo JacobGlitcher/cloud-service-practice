@@ -2,7 +2,7 @@ import "vuetify/styles"
 
 // Vuetify
 import { createVuetify } from "vuetify"
-import components from "./vuetify.labs.components"
+import components from "./vuetify.labs.components.js"
 import { fa } from "vuetify/iconsets/fa"
 import { aliases, mdi } from "vuetify/lib/iconsets/mdi"
 
